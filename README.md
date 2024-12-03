@@ -16,8 +16,8 @@
         </nav>
     </header>
     <main>
-        <h1>Welcome to My Website</h1>
-        <p>Introduction goes here.</p>
+        <h1> My Website</h1>
+        <p> Sandy Tran, Junior, IT-304-DL4 .</p>
     </main>
 </body>
 </html>
